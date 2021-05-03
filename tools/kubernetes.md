@@ -9,6 +9,8 @@ activeSupportColumn: false
 releaseDateColumn: true
 sortReleasesBy: "release"
 eolColumn: Supported
+alternate_urls:
+  - /k8s
 # The release date for "N" should match the eol date for N-3 release.
 releases:
   - releaseCycle: "1.16"
